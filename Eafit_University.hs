@@ -125,5 +125,3 @@ cicloPrincipal universidad = do
         _ -> do
             putStrLn "Opción no válida. Por favor, seleccione una opción válida."
             cicloPrincipal universidad
-
---Y eso fue todo, espero le haya gustado nuestra implementación para este programa de gestión de estudiantes en la universidad.🫡
